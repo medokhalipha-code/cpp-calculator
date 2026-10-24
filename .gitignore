@@ -1,0 +1,29 @@
+# Visual Studio temporary files and user settings
+.vs/
+*.user
+*.user.*
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs and intermediate object files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+*.res
+*.log
+*.iobj
+*.ipdb
+
+# Release staging and archives
+dist/
+*.zip
